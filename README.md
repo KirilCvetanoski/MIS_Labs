@@ -1,20 +1,7 @@
-<<<<<<< HEAD
-# MIS_Labs
-=======
-# lab1
+#Слики од апликација
+<img width="683" height="1350" alt="image" src="https://github.com/user-attachments/assets/0a6edaf7-815d-4d7e-a280-b6b40b9bfc0b" />
 
-A new Flutter project.
+<img width="690" height="1350" alt="image" src="https://github.com/user-attachments/assets/683a0fcb-1e60-4043-9557-8817b0d8df8b" />
 
-## Getting Started
+<img width="690" height="1350" alt="image" src="https://github.com/user-attachments/assets/f9cbc931-de03-40f7-9766-9aaa50234145" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 585f968 (Initial commit)
